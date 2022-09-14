@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "saleOffPercent": "3%",
+      "url": "/assets/img/Balenciaga-Triple-S.jpg",
+      "name": "Giày Balenciaga Triple S Sneaker 'Black Red' 483513-W06E1-1000",
+      "priceOld": "30.000.000₫",
+      "priceCurrent": "29.000.000₫",
+      "brand": "Balenciaga"
+    },
+    {
+      "id": 2,
+      "saleOffPercent": "8%",
+      "url": "/assets/img/Nike-Air-Force.jpg",
+      "name": "Giày Nike Air Force 1 '07 'First Use White University Blue' DA8478-100",
+      "priceOld": "6.000.000₫",
+      "priceCurrent": "5.500.000₫",
+      "brand": "Nike"
+    },
+    {
+      "saleOffPercent": "2%",
+      "url": "/assets/img/Nike-Air-Jordan-1-Retro-Low-Dior.jpg",
+      "name": "Giày Nike Air Jordan 1 Retro Low Dior CN8608-002",
+      "priceOld": "20.000.000₫",
+      "priceCurrent": "20.000.000₫",
+      "brand": "Air Jordan",
+      "id": 3
+    },
+    {
+      "saleOffPercent": "15%",
+      "url": "/assets/img/Nike-Air-Jordan-4.jpg",
+      "name": "Giày Nike Air Jordan 4 Retro OG GS 'Fire Red' 2020 408452-160",
+      "priceOld": "10.000.000₫",
+      "priceCurrent": "8.500.000₫",
+      "brand": "Air Jordan",
+      "id": 4
+    },
+    {
+      "saleOffPercent": "13%",
+      "url": "/assets/img/air-jordan-1-mid-laser-blue.jpg",
+      "name": "Giày Nike Air Jordan 1 Mid Laser Blue 554724-141",
+      "priceOld": "7.500.000₫",
+      "priceCurrent": "6.500.000₫",
+      "brand": "Air Jordan",
+      "id": 5
+    },
+    {
+      "saleOffPercent": "10%",
+      "url": "/assets/img/Balenciaga-Track-2.jpg",
+      "name": "Giày Balenciaga Track 2 'Beige Blue Red' 568614-W2GN2-8570",
+      "priceOld": "20.000.000₫",
+      "priceCurrent": "18.000.000₫",
+      "brand": "Balenciaga",
+      "id": 6
+    },
+    {
+      "saleOffPercent": "3%",
+      "url": "/assets/img/Alexander-McQueen.jpg",
+      "name": "Giày Alexander McQueen Wmns Oversized Sneaker 'White Black' 2019",
+      "priceOld": "15.000.000₫",
+      "priceCurrent": "14.500.000₫",
+      "brand": "McQueen",
+      "id": 7
+    },
+    {
+      "saleOffPercent": "20%",
+      "url": "/assets/img/Converse-Chuck-Taylor-All-Star-1970s-Black-Grey.jpg",
+      "name": "Giày Converse Chuck Taylor All Star 1970s Black Grey 172500C",
+      "priceOld": "4.000.000₫",
+      "priceCurrent": "3.200.000₫",
+      "brand": "Converse",
+      "id": 8
+    },
+    {
+      "saleOffPercent": "3%",
+      "url": "/assets/img/Giày-Nike-Air-Jordan-1-Retro-High.jpg",
+      "name": "Giày Nike Air Jordan 1 Retro High OG GS 'Hyper Royal' 575441-402",
+      "priceOld": "14.000.000₫",
+      "priceCurrent": "13.500.000₫",
+      "brand": "Air Jordan",
+      "id": 9
+    },
+    {
+      "saleOffPercent": "15%",
+      "url": "/assets/img/Giày-Nike-AirJordan-1-Zoom-Comfort-Pink-Oxford.jpg",
+      "name": "Giày Nike Air Jordan 1 Zoom Comfort Pink Oxford DQ5092-651",
+      "priceOld": "7.000.000₫",
+      "priceCurrent": "5.900.000₫",
+      "brand": "Air Jordan",
+      "id": 10
+    },
+    {
+      "saleOffPercent": "5%",
+      "url": "/assets/img/Giày-Maison-Chateau-Rouge-x-Air-Jordan-1-Mid-SE-Fearless.jpg",
+      "name": "Giày Maison Chateau Rouge x Air Jordan 1 Mid SE Fearless CU2803-200",
+      "priceOld": "21.000.000₫",
+      "priceCurrent": "19.900.000₫",
+      "brand": "Air Jordan",
+      "id": 11
+    },
+    {
+      "saleOffPercent": "4%",
+      "url": "/assets/img/Giày-Dior-B23-High-Top-Sneaker-Coffee.jpg",
+      "name": "Giày Dior B23 High Top Sneaker Coffee 3SH118ZMK-H761",
+      "priceOld": "38.000.000₫",
+      "priceCurrent": "36.500.000₫",
+      "brand": "Dior",
+      "id": 12
+    },
+    {
+      "saleOffPercent": "10%",
+      "url": "/assets/img/Giày-MLB-Chunky-Liner-New-York-Yankees-White-Green.jpg",
+      "name": "Giày MLB Chunky Liner New York Yankees White Green 3ASXCA12N-50GNS",
+      "priceOld": "5.000.000₫",
+      "priceCurrent": "4.500.000₫",
+      "brand": "MLB",
+      "id": 13
+    },
+    {
+      "saleOffPercent": "18%",
+      "url": "/assets/img/Giày-Nike-Air-Force-1.jpg",
+      "name": "Giày Nike Air Force 1 ID 'Gucci' CT7875-994",
+      "priceOld": "6.000.000₫",
+      "priceCurrent": "4.900.000₫",
+      "brand": "Nike",
+      "id": 14
+    },
+    {
+      "saleOffPercent": "12%",
+      "url": "/assets/img/Giày-Saucony-Endorphin-2.jpg",
+      "name": "Giày Saucony Endorphin 2 'Tan And Brown' S20688-200",
+      "priceOld": "9.000.000₫",
+      "priceCurrent": "7.900.000₫",
+      "brand": "Saucony",
+      "id": 15
+    }
+  ]
+}
